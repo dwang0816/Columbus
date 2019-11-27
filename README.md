@@ -6,4 +6,4 @@ An webpage using rails backend and javascript frontend mimicking online advertis
 
 User could create, update and delete listings.
 
-![Alt Text](https://gifyu.com/image/vR60)
+![Alt Text](https://s5.gifyu.com/images/ezgif.com-video-to-gif04ad1ee12dd433b6.gif)
